@@ -3,8 +3,6 @@ import Customer from './features/customers/Customer';
 import AccountOperations from './features/accounts/AccountOperations';
 import BalanceDisplay from './features/accounts/BalanceDisplay';
 
-import store from './store';
-
 function App() {
   return (
     <div>
